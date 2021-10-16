@@ -2,6 +2,10 @@
 
 This App is for validating email.
 
+# Download the app
+
+[Donwload here](https://drive.google.com/file/d/1OoRMrVF1bmRWrUgRIHGBgmn4sZauBybz/view?usp=sharing)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
