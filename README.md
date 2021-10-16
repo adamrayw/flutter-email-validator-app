@@ -1,6 +1,6 @@
-# email_validator
+# Email Validator
 
-A new Flutter project.
+This App is for validating email.
 
 ## Getting Started
 
